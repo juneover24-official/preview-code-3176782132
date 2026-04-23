@@ -1,26 +1,8 @@
 {
   "qq_number": "3176782132",
   "group_number": "1087202182",
-  "updated_at": "2026-04-22T16:19:43.797733",
+  "updated_at": "2026-04-23T15:52:39.041858",
   "skins": [
-    {
-      "name": "乐妍底包",
-      "file": "情绪の蝶栖扇.bds",
-      "thumb": "情绪の蝶栖扇.bds_py_26_light_thumb.png",
-      "full": "情绪の蝶栖扇.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "情绪の清莲絮.bds",
-      "thumb": "情绪の清莲絮.bds_py_26_light_thumb.png",
-      "full": "情绪の清莲絮.bds_py_26_light.png"
-    },
-    {
-      "name": "情绪の黑巧雪姬",
-      "file": "情绪の黑巧雪姬.bds",
-      "thumb": "情绪の黑巧雪姬.bds_py_26_light_thumb.png",
-      "full": "情绪の黑巧雪姬.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "情绪の清莲絮.bdi",
@@ -38,6 +20,24 @@
       "file": "情绪の黑巧雪姬.bdi",
       "thumb": "情绪の黑巧雪姬.bdi_py_26_light_thumb.png",
       "full": "情绪の黑巧雪姬.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "情绪の蝶栖扇.bds",
+      "thumb": "情绪の蝶栖扇.bds_py_26_light_thumb.png",
+      "full": "情绪の蝶栖扇.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "情绪の清莲絮.bds",
+      "thumb": "情绪の清莲絮.bds_py_26_light_thumb.png",
+      "full": "情绪の清莲絮.bds_py_26_light.png"
+    },
+    {
+      "name": "情绪の黑巧雪姬",
+      "file": "情绪の黑巧雪姬.bds",
+      "thumb": "情绪の黑巧雪姬.bds_py_26_light_thumb.png",
+      "full": "情绪の黑巧雪姬.bds_py_26_light.png"
     }
   ]
 }
