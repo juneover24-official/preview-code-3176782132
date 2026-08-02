@@ -1,7 +1,7 @@
 {
   "qq_number": "3176782132",
   "group_number": "1087202182",
-  "updated_at": "2026-08-02T18:20:13+00:00",
+  "updated_at": "2026-08-02T18:20:18+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -44,6 +44,12 @@
       "file": "情绪の荆棘桃心.bdi",
       "thumb": "情绪の荆棘桃心.bdi_py_26_light_thumb.png",
       "full": "情绪の荆棘桃心.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "情绪の荆棘桃心.bds",
+      "thumb": "情绪の荆棘桃心.bds_py_26_light_thumb.png",
+      "full": "情绪の荆棘桃心.bds_py_26_light_thumb.png"
     }
   ]
 }
